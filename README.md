@@ -1,10 +1,10 @@
-#Analysis of baseball players performance in Tableau
+# Analysis of baseball players performance in Tableau
 
 **Link to the first version of the story (before feedback):**
 
 [https://public.tableau.com/profile/mostafa.elkhouly#!/vizhome/Project8-firstversion-firstsubmission/Performanceofbaseballplayers](https://public.tableau.com/profile/mostafa.elkhouly#!/vizhome/Project8-firstversion-firstsubmission/Performanceofbaseballplayers)
 
-**Link to the final version of the story (after feedback)****:**
+**Link to the final version of the story (after feedback):**
 
 [https://public.tableau.com/profile/mostafa.elkhouly#!/vizhome/Project8-finalversion-secondsubmission/Performanceofbaseballplayers](https://public.tableau.com/profile/mostafa.elkhouly#!/vizhome/Project8-finalversion-secondsubmission/Performanceofbaseballplayers)
 
